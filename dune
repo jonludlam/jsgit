@@ -1,0 +1,7 @@
+(executable
+ (name test)
+ (js_of_ocaml
+    (flags +cstruct/cstruct.js --debuginfo --pretty --noinline))
+ (flags (:standard -g))
+ (libraries checkseum.ocaml digestif.ocaml alcotest logs logs.fmt git git-http cohttp-lwt-jsoo lwt logs.browser ))
+

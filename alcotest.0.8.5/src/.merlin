@@ -1,0 +1,18 @@
+EXCLUDE_QUERY_DIR
+B /Users/jon/.opam/irmin/lib/astring
+B /Users/jon/.opam/irmin/lib/bytes
+B /Users/jon/.opam/irmin/lib/cmdliner
+B /Users/jon/.opam/irmin/lib/fmt
+B /Users/jon/.opam/irmin/lib/result
+B /Users/jon/.opam/irmin/lib/uchar
+B /Users/jon/.opam/irmin/lib/uuidm
+B ../../_build/default/alcotest.0.8.5/src/.alcotest.objs/byte
+S /Users/jon/.opam/irmin/lib/astring
+S /Users/jon/.opam/irmin/lib/bytes
+S /Users/jon/.opam/irmin/lib/cmdliner
+S /Users/jon/.opam/irmin/lib/fmt
+S /Users/jon/.opam/irmin/lib/result
+S /Users/jon/.opam/irmin/lib/uchar
+S /Users/jon/.opam/irmin/lib/uuidm
+S .
+FLG -w -40
